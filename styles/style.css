@@ -1,0 +1,39 @@
+
+
+ .bg-page{
+  background-color: aquamarine;
+ }
+.nav{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 30px;
+    font:10px;
+  
+}
+
+.nav a{
+  text-decoration: none;
+  color: black;
+  margin: 10px;
+  font-style: normal;
+  
+}
+
+.login-form{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin: 30px;
+  align-items: center;
+}
+ 
+.login-form>input{
+
+    margin-top: 10px;
+    margin: 5px;
+
+  }
+
+
+}
